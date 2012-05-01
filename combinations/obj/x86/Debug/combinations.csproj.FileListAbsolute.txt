@@ -1,0 +1,5 @@
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\combinations\combinations\bin\Debug\combinations.exe
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\combinations\combinations\bin\Debug\combinations.pdb
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\combinations\combinations\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\combinations\combinations\obj\x86\Debug\combinations.exe
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\combinations\combinations\obj\x86\Debug\combinations.pdb
